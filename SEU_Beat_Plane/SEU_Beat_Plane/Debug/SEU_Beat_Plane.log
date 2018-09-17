@@ -1,0 +1,14 @@
+﻿  SEU_Beat_Plane.cpp
+d:\cpp\seu_beat_plane final\seu_beat_plane\seu_beat_plane\seu_beat_plane.cpp(101): error C2601: “MyRegisterClass”: 本地函数定义是非法的
+  d:\cpp\seu_beat_plane final\seu_beat_plane\seu_beat_plane\seu_beat_plane.cpp(38): note: 此行有一个“{”没有匹配项
+d:\cpp\seu_beat_plane final\seu_beat_plane\seu_beat_plane\seu_beat_plane.cpp(132): error C2601: “InitInstance”: 本地函数定义是非法的
+  d:\cpp\seu_beat_plane final\seu_beat_plane\seu_beat_plane\seu_beat_plane.cpp(38): note: 此行有一个“{”没有匹配项
+d:\cpp\seu_beat_plane final\seu_beat_plane\seu_beat_plane\seu_beat_plane.cpp(167): error C2601: “WndProc”: 本地函数定义是非法的
+  d:\cpp\seu_beat_plane final\seu_beat_plane\seu_beat_plane\seu_beat_plane.cpp(38): note: 此行有一个“{”没有匹配项
+d:\cpp\seu_beat_plane final\seu_beat_plane\seu_beat_plane\seu_beat_plane.cpp(278): error C2601: “Game_Start_Init”: 本地函数定义是非法的
+  d:\cpp\seu_beat_plane final\seu_beat_plane\seu_beat_plane\seu_beat_plane.cpp(38): note: 此行有一个“{”没有匹配项
+d:\cpp\seu_beat_plane final\seu_beat_plane\seu_beat_plane\seu_beat_plane.cpp(310): error C2601: “Game_Start_Paint”: 本地函数定义是非法的
+  d:\cpp\seu_beat_plane final\seu_beat_plane\seu_beat_plane\seu_beat_plane.cpp(38): note: 此行有一个“{”没有匹配项
+d:\cpp\seu_beat_plane final\seu_beat_plane\seu_beat_plane\seu_beat_plane.cpp(333): error C2601: “About”: 本地函数定义是非法的
+  d:\cpp\seu_beat_plane final\seu_beat_plane\seu_beat_plane\seu_beat_plane.cpp(38): note: 此行有一个“{”没有匹配项
+d:\cpp\seu_beat_plane final\seu_beat_plane\seu_beat_plane\seu_beat_plane.cpp(38): fatal error C1075: “{”: 未找到匹配令牌
